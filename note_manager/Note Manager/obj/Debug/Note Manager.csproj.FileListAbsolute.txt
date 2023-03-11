@@ -1,0 +1,38 @@
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Note Manager.exe.config
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Note Manager.exe
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Note Manager.pdb
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note_Manager.NoteManager.resources
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note_Manager.Properties.Resources.resources
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.exe
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.pdb
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\ZstdNet.dll
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.csproj.CopyComplete
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Note Manager.exe.manifest
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\bin\Debug\Note Manager.application
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.exe.manifest
+C:\Users\lucas\Desktop\projects\editor\notes\Note Manager\Note Manager\obj\Debug\Note Manager.application
