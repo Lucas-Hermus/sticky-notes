@@ -1,4 +1,4 @@
-# FallingSand
+# Sticky Notes 
 Sticky Note application and note manager made with C# forms made for Windows.
 
 <img src="images/Demo.jpg" alt="Alt text" width="500">
